@@ -21,5 +21,5 @@ $(document).ready(function () {
         alert($(this).attr("data-tmp"));
     });
 
-}, true);
+});
 
